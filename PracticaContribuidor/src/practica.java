@@ -5,6 +5,7 @@ public class practica {
 		// TODO Auto-generated method stub
 		System.out.println("Hola");
 		System.out.println("Aceptas los cambios?");
+		System.out.println("Adios");
 
 	}
 
